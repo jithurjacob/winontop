@@ -23,7 +23,8 @@ setup(
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Topic :: Utilities",
-        'Operating System :: Windows',
+        'Operating System :: Microsoft',
+        'Environment :: Win32 (MS Windows)',
         "License :: OSI Approved :: BSD License",
     ],
 )
