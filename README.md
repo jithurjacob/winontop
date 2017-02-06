@@ -6,7 +6,7 @@ You have to specify only a part of the name in windows title.If you want a notep
 
 Demo 
 [Larger Gyfcat Demo](https://gfycat.com/GroundedKeenAntelopegroundsquirrel)
-![Demo](https://thumbs.gfycat.com/GroundedKeenAntelopegroundsquirrel)
+![Demo](https://thumbs.gfycat.com/GroundedKeenAntelopegroundsquirrel-size_restricted.gif)
 
 ## Installation
 
