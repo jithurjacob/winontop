@@ -4,8 +4,10 @@
 This is an easy to use tool to keep windows on top of other applications.
 You have to specify only a part of the name in windows title.If you want a notepad, excel, word or any application to be on top while you work this is the tool you are looking for, no need to install any third party software.
 
-Demo 
+# Demo 
+
 [Larger Gyfcat Demo](https://gfycat.com/GroundedKeenAntelopegroundsquirrel)
+
 ![Demo](https://thumbs.gfycat.com/GroundedKeenAntelopegroundsquirrel-size_restricted.gif)
 
 ## Installation
