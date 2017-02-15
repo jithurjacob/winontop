@@ -7,14 +7,14 @@ def read(fname):
 
 setup(
     name = "winontop",
-    version = "0.1",
+    version = "0.3",
     author = "Jithu R Jacob",
     author_email = "jithurjacob@gmail.com",
     description = ("An easy tool to keep windows on top of others."),
     license = "BSD",
     keywords = "python windows top winontop windowsontop",
     url = "https://github.com/jithurjacob/winontop",
-    download_url = 'https://github.com/jithurjacob/winontop/tarball/0.1',
+    download_url = 'https://github.com/jithurjacob/winontop/tarball/0.3',
     packages=['winontop'],
     entry_points = {
         "console_scripts": ['winontop = winontop.winontop:main']
